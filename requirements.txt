@@ -1,0 +1,18 @@
+# Core deep learning
+torch
+torchvision
+ultralytics
+
+# Image processing
+opencv-python
+Pillow
+albumentations
+
+# Data manipulation
+numpy
+pandas
+scikit-learn
+pyyaml
+
+# Visualization
+matplotlib
